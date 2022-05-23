@@ -6,7 +6,7 @@ metadata:
 data:
   game.properties: |
     enemies=aliens
-    lives=3
+    lives=5
     enemies.cheat=true
     enemies.cheat.level=noGoodRotten
     secret.code.passphrase=UUDDLRLRBABAS
