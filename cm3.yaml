@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: ConfigMap
 metadata:
-  name: game-config
+  name: game-config-3
   namespace: foo
 data:
   game.properties: |
